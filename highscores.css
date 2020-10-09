@@ -1,0 +1,25 @@
+
+/*
+    
+    * Content from this project is sourced from udemy learning
+    * https://www.udemy.com/course/build-a-quiz-app-with-html-css-and-javascript/learn/lecture/13703728#overview
+    * 
+   
+
+*/
+
+
+#highScoresList {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 4rem;
+}
+
+.high-score {
+  font-size: 2.8rem;
+  margin-bottom: 0.5rem;
+}
+
+.high-score:hover {
+  transform: scale(1.025);
+}
